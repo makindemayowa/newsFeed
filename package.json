@@ -11,5 +11,8 @@
     "url": "mayowamakinde"
   },
   "author": "Mayowa Makinde",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
