@@ -1,0 +1,15 @@
+{
+  "name": "news_feed_app",
+  "version": "1.0.0",
+  "description": "returns JSON metadata for the headlines currently published on a range of news sources and blogs",
+  "main": "index,js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mayowamakinde"
+  },
+  "author": "Mayowa Makinde",
+  "license": "ISC"
+}
